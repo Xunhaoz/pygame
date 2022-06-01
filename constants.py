@@ -1,0 +1,8 @@
+SCREEN_W = 800
+SCREEN_H = 600
+BG_COLOR = (234, 226, 183)
+LINE_COLOR = (0, 48, 73)
+CHOSEN_COLOR = (252, 191, 73)
+WORD_COLOR = (252, 191, 73)
+WRONG_COLOR = (214, 40, 40)
+# https://coolors.co/palette/003049-d62828-f77f00-fcbf49-eae2b7
